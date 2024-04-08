@@ -1,4 +1,4 @@
-This project is a worm that
+The project1_demo is a worm that
   1. implementing worm feature: a)infect and copy; b)spread through local network
   2. it will pop out windows to interact with User: a) dialog; b)ask for string
   3. it will encrpted the file in the current folder by using fernet cryptography
